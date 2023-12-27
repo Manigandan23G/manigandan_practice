@@ -1,1 +1,1 @@
-# Pracrice codes on pyspark and python.
+Pracrice codes on pyspark and python.
