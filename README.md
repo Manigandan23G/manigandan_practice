@@ -17,3 +17,6 @@ Using list and map complete the python logical tasks.
 Task5 - udf_file
 
 using UDF fucntuntion on dataframe complete the transformation.
+
+Task6 - optimize
+using partitionBy standardizing the column names in dataframe. Replacing all the numeric and special charaters to valid string values to use in project.
