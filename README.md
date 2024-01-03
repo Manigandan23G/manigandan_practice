@@ -20,3 +20,6 @@ using UDF fucntuntion on dataframe complete the transformation.
 
 Task6 - optimize
 using partitionBy standardizing the column names in dataframe. Replacing all the numeric and special charaters to valid string values to use in project.
+
+Task7 - zorder, optimize, and reorder
+Optimizing the delta table in using optimize, zorder and reorder
